@@ -39,15 +39,10 @@ The project is intentionally simple, containing a Python script and its document
 
 Clone the repository:
 ```bash
-git clone
-cd ec2-name-generator
+git clone https://github.com/donotkg/aws-ec2-name-generator)cd ec2-name-generator
 python3 main.py
 
----
 
-🧠 What I Learned 
-	•	Creating a clean and reusable Python utility script
-	•	Importance of AWS naming conventions
-	•	Structuring a small project professionally
-	•	Writing a minimal but clear README
+
+
 
