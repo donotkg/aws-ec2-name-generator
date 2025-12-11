@@ -35,27 +35,25 @@ The project is intentionally simple, containing a Python script and its document
 
 ---
 
-## ▶️ How to Run
+# AWS EC2 Name Generator
 
-### 1. Clone the repository
+A simple Python script that generates clean and standardized EC2 instance names using a department prefix and a random alphanumeric suffix.  
+Useful for organizing AWS resources and keeping consistent naming conventions.
+
+---
+
+## 🚀 How to Run
+
+Clone the repository:
 ```bash
-git clone https://github.com/your-username/ec2-name-generator.git
-
-3. Run the script
-
+git clone
+cd ec2-name-generator
 python3 main.py
 
-📁 Example Output
 
-finance-web-2A9
-hr-app-F3K
-security-api-9ZQ
-it-backend-7M2
+🧠 What I Learned 
+	•	Creating a clean and reusable Python utility script
+	•	Importance of AWS naming conventions
+	•	Structuring a small project professionally
+	•	Writing a minimal but clear README
 
-
-🧠 What I Learned
-	•	How to organize and document a simple cloud automation script
-	•	Importance of AWS naming conventions for EC2 resources
-	•	Handling user input and random generation in Python
-	•	Best practices for writing clean and readable Python code
-	•	Structuring a beginner DevOps/Cloud project with clear documentation
