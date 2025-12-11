@@ -41,7 +41,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/donotkg/aws-ec2-name-generator
 cd ec2-name-generator
-EC2 Random Name Generetor.py
+python3 "EC2 Random Name Generetor.py"
 
 
 
