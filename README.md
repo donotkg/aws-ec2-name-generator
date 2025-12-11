@@ -35,13 +35,6 @@ The project is intentionally simple, containing a Python script and its document
 
 ---
 
-# AWS EC2 Name Generator
-
-A simple Python script that generates clean and standardized EC2 instance names using a department prefix and a random alphanumeric suffix.  
-Useful for organizing AWS resources and keeping consistent naming conventions.
-
----
-
 ## 🚀 How to Run
 
 Clone the repository:
@@ -50,6 +43,7 @@ git clone
 cd ec2-name-generator
 python3 main.py
 
+---
 
 🧠 What I Learned 
 	•	Creating a clean and reusable Python utility script
