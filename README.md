@@ -1,8 +1,18 @@
-# python-pro
+# AWS EC2 Name Generator
 
-Several departments share an AWS environment. To ensure that EC2 instances are properly identified, each instance must have a unique and descriptive name. This Python script will help users generate those names.
+This project provides a Python-based tool for generating standardized and unique EC2 instance names across multiple departments in an AWS environment.
 
-Script Requirements
-	1.	The script must allow the user to input how many EC2 instance names they need and output the same amount of unique names.
-	2.	The script must allow the user to enter the name of their department, which will be included in the unique EC2 name.
-	3.	The script must generate random characters and numbers that will be appended to the unique name.
+## 🎯 Objective
+Ensure that EC2 instances follow a consistent naming convention, improving:
+- Resource identification
+- AWS cost allocation
+- Infrastructure organization
+- Automation workflows
+
+## 🔧 Features
+- User input for number of EC2 names to generate
+- Includes department name in final EC2 tag
+- Generates random character and number suffix
+- Produces unique, descriptive EC2 instance names
+
+## 📁 Example Output
